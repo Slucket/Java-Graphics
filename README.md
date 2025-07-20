@@ -12,8 +12,8 @@ Meadow biome grass color
 ![Weather Fog demonstration](preview3.png)
 Weather Fog demonstration
 
-![Waterfall in a Chery Grove](preview4.png)
-Waterfall in a Chery Grove
+![Waterfall in a Cherry Grove](preview4.png)
+Waterfall in a Cherry Grove
 
 ![Water texture and color](preview5.png)
 Water texture and color
